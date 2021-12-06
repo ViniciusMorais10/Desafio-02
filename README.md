@@ -18,6 +18,9 @@ Desafio 02 realizado da comunidade Codelândia
 > Tecnologias utilizadas:
 HTML, CSS.
 
+> Preview 
+> (https://desafio-02-jordanshoes.vercel.app
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
